@@ -17,6 +17,7 @@ library(kableExtra)
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+
 ## Why do User Research & Usability Testing?
 
 <p class="comment">
@@ -25,27 +26,25 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <p style="text-align: right"> <a href="https://www.statisticsauthority.gov.uk/wp-content/uploads/2018/02/Code-of-Practice-for-Statistics.pdf">- UKSA Code of Practice for Statistics, 2018</a></p>
 
-## Slide title
 
-```{r out.width = "70%", fig.align = 'center'}
-include_graphics("images/value.png")
+## User Research Process
+
+```{r out.width = "90%", fig.align = 'center'}
+include_graphics("images/user_research_process.png")
 ```
 
-## This slide has two columns 
-<!-- It seems easier to do with htmltags than with other ways --> 
-<div style="float: left; width: 50%; text-align: left">
-* Bullet point
-* Bullet point with *italic text*
-* Bullet point with **bold text**
-</div>
 
-<div style="float: right; width: 50%;">
-```{r out.width = "100%", fig.align = 'right'}
-hist(rnorm(100))
-```
-</div>
+## Initial Engagement
 
-## Slide title
+- Method (e.g. Focus groups, interviews, survey)
 
-[ISD homepage](http://www.isdscotland.org/)
+
+- Design (Goals, objectives, questions)
+
+
+- Participant recruitment (Who, why, and how?)
+
+
+- Implementation (Where, when, what with?)
+
 
