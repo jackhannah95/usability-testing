@@ -1,5 +1,5 @@
 ---
-title: "User Research & <br> Usability Testing"
+title: "Usability Testing"
 subtitle: "Transforming Publishing Programme"
 author: 'Jack Hannah <br> Information Services Division <br>'
 date: "23 July 2019 <br><br> Slides: https://github.com/jackhannah95/usability-testing"
@@ -11,20 +11,18 @@ output:
 ```{r setup, include = FALSE}
 # Load packages required
 library(knitr)
-library(magrittr)
-library(kableExtra)
 
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
-## Why do User Research & Usability Testing?
+## Why do Usability Testing?
 
 <p class="comment">
-"Users of statistics and data should be at the centre of statistical production; their needs should be understood, their views sought and acted upon, and their use of statistics supported."
+"From the moment you know enough to talk about a product—any product, whether it's hardware, software, a video game, a training guide, or a website—you know too much to be able to tell if the product would be usable for a person who doesn't know what you know."
 </p>
 
-<p style="text-align: right"> <a href="https://www.statisticsauthority.gov.uk/wp-content/uploads/2018/02/Code-of-Practice-for-Statistics.pdf">- UKSA Code of Practice for Statistics, 2018</a></p>
+<p style="text-align: right"> <a href="https://books.google.co.uk/books/about/Usability_Testing_Essentials.html?id=tzX3J81MAAMC&redir_esc=y">- Carol M.Barnum, Usability Testing and Essentials, 2010</a></p>
 
 
 ## User Research Process
@@ -34,17 +32,19 @@ include_graphics("images/user_research_process.png")
 ```
 
 
-## Initial Engagement
+## User Research Process
 
-- Method (e.g. Focus groups, interviews, survey)
-
-
-- Design (Goals, objectives, questions)
-
-
-- Participant recruitment (Who, why, and how?)
+```{r out.width = "90%", fig.align = 'center'}
+include_graphics("images/user_research_process_test.png")
+```
 
 
-- Implementation (Where, when, what with?)
+## The Purpose of Usability Testing
 
+The main purpose of a usability test is not:
 
+- To gain content ideas
+- To provide a demonstration of the prototype
+- To seek validation for your work
+
+These may be indirect outcomes of a usability test, however its main purpose is to assess the ease of use of a prototype and, subsequently, to learn how to refine said prototype to make it more user friendly.
