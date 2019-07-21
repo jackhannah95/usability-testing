@@ -15,19 +15,15 @@ library(magrittr)
 library(kableExtra)
 
 knitr::opts_chunk$set(echo = FALSE)
-
-# Create data frame for table
-table_contents <- data.frame(c("Text", "Text",
-                               "Text", "Text",
-                               "Text"),
-                             c(1:5))
 ```
 
-## Slide title
+## Why do User Research & Usability Testing?
 
-- Bullet point
-- Bullet point with *italic text*
-- Bullet point with **bold text**
+<p class="comment">
+"Users of statistics and data should be at the centre of statistical production; their needs should be understood, their views sought and acted upon, and their use of statistics supported."
+</p>
+
+<p style="text-align: right"> <a href="https://www.statisticsauthority.gov.uk/wp-content/uploads/2018/02/Code-of-Practice-for-Statistics.pdf">- UKSA Code of Practice for Statistics, 2018</a></p>
 
 ## Slide title
 
@@ -53,10 +49,3 @@ hist(rnorm(100))
 
 [ISD homepage](http://www.isdscotland.org/)
 
-## Slide title
-
-```{r, echo = FALSE}
-    kable(table_contents,
-          col.names = c("Column heading", "Column heading"),
-          format = "markdown")
-```
