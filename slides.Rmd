@@ -39,12 +39,41 @@ include_graphics("images/user_research_process_test.png")
 ```
 
 
+## What is Usability Testing?
+
+- Usability testing is designed to help diagnose and fix problems with prototypes of a software product (e.g. a shiny app) to determine whether the product is **usable**.
+
+- It is undertaken during the development process, not after release.
+
+- It is also a useful opportunity to assess the efficiency of, and user satisfaction with, a product.
+
+
+## How does it work?
+
+
+
+
 ## The Purpose of Usability Testing
 
-The main purpose of a usability test is not:
+The main purpose of usability testing is not:
 
 - To gain content ideas
 - To provide a demonstration of the prototype
 - To seek validation for your work
 
-These may be indirect outcomes of a usability test, however its main purpose is to assess the ease of use of a prototype and, subsequently, to learn how to refine said prototype to make it more user friendly.
+
+## Links
+
+Email: [jack.hannah1@nhs.net](mailto:jack.hannah1@nhs.net)
+
+
+[ISD Paper on Usability Testing](https://www.isdscotland.org/About-ISD/Methodologies/_docs/Usability-Testing-v1-0.pdf)
+
+
+[ISD Paper on Initial User Engagement](https://www.isdscotland.org/About-ISD/Methodologies/_docs/Initial-User-Engagement-v1-2.pdf)
+
+
+[Transforming Publishing on GitHub](https://github.com/NHS-NSS-transforming-publications)
+
+
+[PHI on GitHub](https://github.com/Health-SocialCare-Scotland)
