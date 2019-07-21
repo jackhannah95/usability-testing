@@ -24,3 +24,16 @@ div {
   text-align: center;
   vertical-align: baseline;
 }
+
+/* creates style for comment box on slide 2 */
+.comment {
+background-color: #DBDBDB;
+color: black;
+padding: 10px;
+border: 1px solid black;
+margin-left: 25px;
+border-radius: 5px;
+font-style: italic;
+line-height: 1.5em;
+font-size: 125%;
+}
