@@ -1,8 +1,8 @@
 ---
-title: "Presentation title"
-subtitle: "Presentation subtitle"
-author: 'Name <br> Organisation <br>'
-date: "Date <br><br> Slides: url to slides"
+title: "User Research & <br> Usability Testing"
+subtitle: "Transforming Publishing Programme"
+author: 'Jack Hannah <br> Information Services Division <br>'
+date: "23 July 2019 <br><br> Slides: https://github.com/jackhannah95/usability-testing"
 output:
   ioslides_presentation:
     css: my-theme.css
