@@ -41,14 +41,14 @@ include_graphics("images/user_research_process_test.png")
 
 ## What is Usability Testing?
 
-- Usability testing is designed to help diagnose and fix problems with prototypes of a software product (e.g. a shiny app) to determine whether the product is **usable**.
+- Usability testing is designed to help diagnose and fix problems with prototypes of a software product (e.g. a shiny app) to determine whether the product is **usable**
 
-- It is undertaken during the development process, not after release.
+- It is undertaken during the development process, not after release
 
-- It is also a useful opportunity to assess the efficiency of, and user satisfaction with, a product.
+- It is also a useful opportunity to assess the efficiency of, and user satisfaction with, a product
 
 
-## The Purpose of Usability Testing
+## What is Usability Testing not for?
 
 The main purpose of usability testing is not:
 
@@ -68,21 +68,35 @@ When planning a usability test, at a minimum, the following should be considered
 
 ## Recruiting Participants
 
-
+- An often arduous process that should be started as early as possible
+- Will involve a lot of back and forward, and comes with a lot of admin (such as room booking, paying travel expenses, etc)
+- Most tests only require a small number of participants
 
 
 ## Test Design
 
+Three documents should be prepared when designing a usability test:
 
+- A test script for participants with a list of tasks to undertake
+- A test script for the facilitator(s) following the same structure, but containing extra space for recording completion rates for tasks and taking observation notes
+- A quantitive feedback form for participants, such as an [ease of use rating scale](https://measuringu.com/single-question/)
 
 
 ## Test Implementation
 
-
+- A usability test should last no longer than one hour, and ideally should be facilitated by two people
+- Participants will often ask for help, however it is crucial that the facilitators do not intervene
+- A useful way of understanding a participant's thought processes is by encouraging them to think aloud when engaging in test activites
+- At the end of the session, it is important to inform participants of what happens next and how they will be kept involved in the project, and, if possible, to ascertain whether they would be interested in participating in future testing
 
 
 ## Analysis and Outputs
 
+Methods used to analyse the results of usability tests will vary depending on the task, however the following will generally be required:
+
+- Any audio recordings must be transcribed and observational notes compiled
+- Splitting results into categories relating to each task and possibly developing recurring themes (e.g. problems identified, content requests, etc)
+- Writing a report on the overall process, to provide an audit trail of the work undertaken
 
 
 
