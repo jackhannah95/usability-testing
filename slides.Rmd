@@ -22,7 +22,7 @@ knitr::opts_chunk$set(echo = FALSE)
 "From the moment you know enough to talk about a product—any product, whether it's hardware, software, a video game, a training guide, or a website—you know too much to be able to tell if the product would be usable for a person who doesn't know what you know."
 </p>
 
-<p style="text-align: right"> <a href="https://books.google.co.uk/books/about/Usability_Testing_Essentials.html?id=tzX3J81MAAMC&redir_esc=y">- Carol M.Barnum, Usability Testing and Essentials, 2010</a></p>
+<p style="text-align: right"> <a href="https://books.google.co.uk/books/about/Usability_Testing_Essentials.html?id=tzX3J81MAAMC&redir_esc=y">- Carol M. Barnum, Usability Testing and Essentials, 2010</a></p>
 
 
 ## User Research Process
@@ -48,11 +48,6 @@ include_graphics("images/user_research_process_test.png")
 - It is also a useful opportunity to assess the efficiency of, and user satisfaction with, a product.
 
 
-## How does it work?
-
-
-
-
 ## The Purpose of Usability Testing
 
 The main purpose of usability testing is not:
@@ -60,6 +55,35 @@ The main purpose of usability testing is not:
 - To gain content ideas
 - To provide a demonstration of the prototype
 - To seek validation for your work
+
+
+## Planning a Usability Test
+
+When planning a usability test, at a minimum, the following should be considered:
+
+- What are the objectives of the testing?
+- Who will be the project lead?
+- What initial tasks must be undertaken to allow the testing to happen?
+
+
+## Recruiting Participants
+
+
+
+
+## Test Design
+
+
+
+
+## Test Implementation
+
+
+
+
+## Analysis and Outputs
+
+
 
 
 ## Links
@@ -71,6 +95,9 @@ Email: [jack.hannah1@nhs.net](mailto:jack.hannah1@nhs.net)
 
 
 [ISD Paper on Initial User Engagement](https://www.isdscotland.org/About-ISD/Methodologies/_docs/Initial-User-Engagement-v1-2.pdf)
+
+
+[Internal ISD presentation on User Engagement and Research by John Mowbray](https://www.youtube.com/watch?v=1y4YrtGqwj0&feature=youtu.be)
 
 
 [Transforming Publishing on GitHub](https://github.com/NHS-NSS-transforming-publications)
